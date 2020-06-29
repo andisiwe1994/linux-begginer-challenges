@@ -1,0 +1,109 @@
+
+
+
+
+
+LINUX CHALLENGE
+
+#TASK 1
+
+1.I see two files containing pictures and the other one contain videos.
+1. Used touch command to create the three files
+2.A file wich shows users direction.
+2.I have written inside the three files that I created
+3.workspace is created.
+4.There is nothing in the file.
+5.There is a readme file.
+6.recruit@recruit-Mecer-X102:~/workspace$ cp README.md CHANGELOG.md
+
+#TASK 2
+
+    touch exercise.md
+    mv excersise.md /tmp
+    rm /tmp exercise.md
+
+
+#TASK 3
+
+1.used the below commands to create the three files.
+    touch cohort.md
+    touch recruit.md
+    touch umuzi.md
+
+2.I used echo command to write inside each of the three files.
+    echo "hi themby" >> umuzi.md
+    echo "I am Andisiwe" >> recruit.md
+    echo "I am here" >> cohort.md
+
+3.I used cat command to concatinate all three files and displayed their contants on the screen.
+    cat cohort.md umuzi.md recruit.md 
+
+4.Used cat command to write the contants of three files inside a new file called summary.md.
+    cat cohort.md umuzi.md recruit.md >> summary.md
+
+5.I used echo command to append text to the end of file summary.md
+    echo "the end" >> summary.md
+
+
+#TASK 4
+
+1.Used nano to open a file and inside that file I wrote a command locate umuzi and it show where umuzi is.used chmod to give my computer a permission to read my command.
+
+2.Used echo to write what already exist to the search result file.
+
+
+TASK 5
+
+1.Documents touch pad.md
+  cd Desktop
+  mkdir work
+  cp /home/recruits/Documents/pad.md  pad_copy.md
+
+2.cd Desktop
+  mkdir work
+
+3.cp /Document/pad.md pad pad_copy.md
+
+4.I used locate updatedb.
+
+5.Used cd to change directory to the previous one.
+
+6.Locate pad_copy.md/ home/recruits/Desktop/work/pad_copy.md
+
+
+TASK 6
+
+1.Type file name"*pdf
+
+2.Locate.pdf>>results.md
+
+3.ls
+
+
+
+TASK 7
+
+1.nano my_bio
+2. file save
+3.mkdir/ my file/my bio
+
+
+
+
+
+
+TASK 8
+
+1. sudo apt to apdate the system.
+
+2.sudo apt to upgrade.
+
+3.sudo apt to install packages.
+
+4.sudo apt to install tree.
+
+5.I first downloaded vs code then changed the file name, open my terminal then sudo dpkg file name then password.
+
+  
+  
+
